@@ -50,8 +50,6 @@
 
 //-----------------------------------------------------------------------------//
 
-// My personel MongoDB Database String
-// mongodb+srv://AKSRAman:Aman12345@cluster0.oy1o8.mongodb.net/AmanKumar?retryWrites=true&w=majority
 
 //console.log((Math.round(20 * 100) / 100))
 // var x = 23;
